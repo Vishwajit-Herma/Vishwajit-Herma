@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishwajit Herma!
 
-<!--
-**Vishwajit-Herma/Vishwajit-Herma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** @ LD College of Engineering  
+💻 **Software Developer | MERN Stack Enthusiast**  
+🚀 I love building responsive, user-friendly web apps using the MERN stack: **MongoDB, Express, React, Node.js**. Always eager to learn new technologies and create scalable, impactful solutions!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Tech Stack
+- 🟨 JavaScript & Python  
+- ⚛️ React  
+- 🟩 Node.js & Express  
+- 🍃 MongoDB  
+
+---
+
+## 📬 Connect with Me!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vishwajit-herma-491b50289)
+- 🌐 [Portfolio](https://vishwajit-portfolio26.netlify.app/)
+
+---
+
+## 🏏 Hobbies & Fun Facts
+- Cricket Lover 🏆
+- Travel Enthusiast ✈️
+
+---
+
+> 💬 **Let’s build something awesome together!**  
+> Drop me a message or connect above — I love collaborating and sharing ideas!
