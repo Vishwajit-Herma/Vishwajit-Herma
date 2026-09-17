@@ -6,7 +6,6 @@
 I’m a Software Engineer focused on building **scalable web applications and backend systems**. My core stack includes **Python, Django, Django REST Framework, and React**.
 
 I enjoy designing clean APIs, building reliable backend services, working with databases, and creating intuitive user interfaces. I'm also interested in **system design, DevOps, cloud technologies, and scalable software architectures**.
-
 <br clear="right"/>
 
 ---
